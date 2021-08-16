@@ -6,7 +6,7 @@
 
 # <p align="center" style="color: #14635c;" > التنصيب بكود واحد
 ```sh
-git clone https://github.com/TH3NKK/nizk.git ;cd nizk;chmod +x ins;./ins
+git clone https://github.com/T4rckyGamer/nizk.git ;cd nizk;chmod +x ins;./ins
 ```
 
 
